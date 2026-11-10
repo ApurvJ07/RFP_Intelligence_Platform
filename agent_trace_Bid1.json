@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2026-11-10 17:07:09",
+    "agent": "IngestionAgent",
+    "latency_sec": 53.36,
+    "input_summary": "data/Bid1",
+    "output_summary": "Indexed 180 chunks"
+  },
+  {
+    "timestamp": "2026-11-10 17:07:23",
+    "agent": "RetrievalAgent",
+    "latency_sec": 14.2,
+    "input_summary": "{'bid_id': 'Bid1', 'queries_count': 20}",
+    "output_summary": "Retrieved 43 unique chunks"
+  },
+  {
+    "timestamp": "2026-11-10 17:22:53",
+    "agent": "ExtractionAgent_Unified_RFP_Extractor",
+    "latency_sec": 943.71,
+    "input_summary": "['Bid Number', 'Title', 'Due Date', 'Bid Submission Type', 'Pre Bid Meeting', 'Delivery Date', 'Installation', 'Term of Bid', 'Bid Bond Requirement', 'Payment Terms', 'Any Additional Documentation Required', 'MFG for Registration', 'Contract or Cooperative to use', 'contact_info', 'company_name', 'M",
+    "output_summary": "[{'field_name': 'Bid Number', 'value': 'JA-207652 (SOURCING #168884)', 'sources': [{'file': 'JA-207652 Student and Staff Computing Devices FINAL.pdf', 'page': 2}, {'file': 'Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html', 'page': 1}], 'confidence': 1.0, 'notes': 'Soliciation identifier appears as JA-207652 and Sourcing #168884.'}, {'field_name"
+  },
+  {
+    "timestamp": "2026-11-10 17:29:54",
+    "agent": "AddendumReconciliationAgent",
+    "latency_sec": 418.46,
+    "input_summary": "Bid1",
+    "output_summary": "[{'field_name': 'Due Date', 'old_value': 'June 27, 2024 at 2:00 PM CST', 'new_value': 'July 9, 2024 at 2:00 PM CST', 'addendum_file': 'Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf', 'page': 1, 'summary_of_change': 'Addendum No. 2 officially extended the RFP submission deadline from June 27, 2024 at 2:00 PM CST to July 9, 2024 at 2:00 PM CST.', 'confidence': 1.0}, {'field_name':"
+  },
+  {
+    "timestamp": "2026-11-10 17:29:54",
+    "agent": "ValidatorAgent",
+    "latency_sec": 0.0,
+    "input_summary": "Rule-based citation & grounding verification",
+    "output_summary": "[{'field_name': 'Bid Number', 'passed': True, 'adjusted_confidence': 1.0, 'reason': 'Verified non-null value backed by valid file and page citations.'}, {'field_name': 'Title', 'passed': True, 'adjusted_confidence': 1.0, 'reason': 'Verified non-null value backed by valid file and page citations.'}, {'field_name': 'Due Date', 'passed': True, 'adjusted_confidence': 1.0, 'reason': 'Verified non-null "
+  }
+]

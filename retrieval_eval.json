@@ -1,0 +1,585 @@
+{
+  "num_questions": 26,
+  "skipped": [],
+  "modes": {
+    "vector": {
+      "metrics": {
+        "Recall@1": 0.462,
+        "Recall@3": 0.808,
+        "Recall@5": 0.885,
+        "Recall@10": 0.923,
+        "MRR": 0.644
+      },
+      "details": [
+        {
+          "question": "What is the submission deadline after all addendums?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "When is the pre-proposal meeting and how is it held?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "How long is the contract term and what are the renewal options?",
+          "bid": "Bid1",
+          "first_relevant_rank": 4,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 20
+        },
+        {
+          "question": "What warranty is required for student Chromebooks and Windows laptops?",
+          "bid": "Bid1",
+          "first_relevant_rank": 2,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 4
+        },
+        {
+          "question": "Must Form 1295 be submitted with the proposal or after award?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 4
+        },
+        {
+          "question": "Is laser etching required on monitors or only laptops?",
+          "bid": "Bid1",
+          "first_relevant_rank": 2,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 3
+        },
+        {
+          "question": "What software setup is required for Windows devices?",
+          "bid": "Bid1",
+          "first_relevant_rank": null,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 5
+        },
+        {
+          "question": "How many Chromebooks are listed for evaluation pricing?",
+          "bid": "Bid1",
+          "first_relevant_rank": 2,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 34
+        },
+        {
+          "question": "How many points does purchase price carry in the evaluation?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 30
+        },
+        {
+          "question": "Who is the buyer and what is their email?",
+          "bid": "Bid1",
+          "first_relevant_rank": null,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 14
+        },
+        {
+          "question": "Which M/WBE forms must be attached to the submission?",
+          "bid": "Bid1",
+          "first_relevant_rank": 2,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 49
+        },
+        {
+          "question": "Is the EPCNT cooperative rider part of this bid?",
+          "bid": "Bid1",
+          "first_relevant_rank": 3,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 52
+        },
+        {
+          "question": "When is a hot swap device required?",
+          "bid": "Bid1",
+          "first_relevant_rank": 8,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 9
+        },
+        {
+          "question": "Are bid bond or insurance requirements stated?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 17
+        },
+        {
+          "question": "What is the proposal due date for the Dell laptop bid?",
+          "bid": "Bid2",
+          "first_relevant_rank": 3,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Which affidavits are required for the Dell laptop bid?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Which master contract may bidders use?",
+          "bid": "Bid2",
+          "first_relevant_rank": 2,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 4
+        },
+        {
+          "question": "What is the delivery deadline after award?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Where should invoices be emailed?",
+          "bid": "Bid2",
+          "first_relevant_rank": 5,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 3
+        },
+        {
+          "question": "Is a Letter of Authorization from Dell needed?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "What is the SKU for the Latitude 5550 base configuration?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "Dell_Laptop_Specs.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "What is the model number of the Thunderbolt dock?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 3
+        },
+        {
+          "question": "What is the procurement officer's phone number?",
+          "bid": "Bid2",
+          "first_relevant_rank": 2,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "Can the vendor charge a restocking fee?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Mercury affidavit requirement",
+          "bid": null,
+          "first_relevant_rank": 1,
+          "top1_file": "Mercury_Affidavit.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "Form 1295 certificate of interested parties",
+          "bid": null,
+          "first_relevant_rank": 2,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 14
+        }
+      ]
+    },
+    "hybrid": {
+      "metrics": {
+        "Recall@1": 0.808,
+        "Recall@3": 0.885,
+        "Recall@5": 0.923,
+        "Recall@10": 0.962,
+        "MRR": 0.848
+      },
+      "details": [
+        {
+          "question": "What is the submission deadline after all addendums?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "When is the pre-proposal meeting and how is it held?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "How long is the contract term and what are the renewal options?",
+          "bid": "Bid1",
+          "first_relevant_rank": 3,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 20
+        },
+        {
+          "question": "What warranty is required for student Chromebooks and Windows laptops?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 3
+        },
+        {
+          "question": "Must Form 1295 be submitted with the proposal or after award?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 4
+        },
+        {
+          "question": "Is laser etching required on monitors or only laptops?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "What software setup is required for Windows devices?",
+          "bid": "Bid1",
+          "first_relevant_rank": null,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 5
+        },
+        {
+          "question": "How many Chromebooks are listed for evaluation pricing?",
+          "bid": "Bid1",
+          "first_relevant_rank": 4,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 34
+        },
+        {
+          "question": "How many points does purchase price carry in the evaluation?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 30
+        },
+        {
+          "question": "Who is the buyer and what is their email?",
+          "bid": "Bid1",
+          "first_relevant_rank": 8,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 60
+        },
+        {
+          "question": "Which M/WBE forms must be attached to the submission?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 33
+        },
+        {
+          "question": "Is the EPCNT cooperative rider part of this bid?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 19
+        },
+        {
+          "question": "When is a hot swap device required?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Are bid bond or insurance requirements stated?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 17
+        },
+        {
+          "question": "What is the proposal due date for the Dell laptop bid?",
+          "bid": "Bid2",
+          "first_relevant_rank": 3,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Which affidavits are required for the Dell laptop bid?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "Mercury_Affidavit.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "Which master contract may bidders use?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "What is the delivery deadline after award?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Where should invoices be emailed?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Is a Letter of Authorization from Dell needed?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "What is the SKU for the Latitude 5550 base configuration?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "Dell_Laptop_Specs.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "What is the model number of the Thunderbolt dock?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "top1_page": 1
+        },
+        {
+          "question": "What is the procurement officer's phone number?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 3
+        },
+        {
+          "question": "Can the vendor charge a restocking fee?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Mercury affidavit requirement",
+          "bid": null,
+          "first_relevant_rank": 1,
+          "top1_file": "Mercury_Affidavit.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "Form 1295 certificate of interested parties",
+          "bid": null,
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 4
+        }
+      ]
+    },
+    "hybrid_rerank": {
+      "metrics": {
+        "Recall@1": 0.769,
+        "Recall@3": 1.0,
+        "Recall@5": 1.0,
+        "Recall@10": 1.0,
+        "MRR": 0.865
+      },
+      "details": [
+        {
+          "question": "What is the submission deadline after all addendums?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "When is the pre-proposal meeting and how is it held?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "How long is the contract term and what are the renewal options?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "What warranty is required for student Chromebooks and Windows laptops?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 3
+        },
+        {
+          "question": "Must Form 1295 be submitted with the proposal or after award?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 4
+        },
+        {
+          "question": "Is laser etching required on monitors or only laptops?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "What software setup is required for Windows devices?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 4
+        },
+        {
+          "question": "How many Chromebooks are listed for evaluation pricing?",
+          "bid": "Bid1",
+          "first_relevant_rank": 2,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 34
+        },
+        {
+          "question": "How many points does purchase price carry in the evaluation?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 30
+        },
+        {
+          "question": "Who is the buyer and what is their email?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Which M/WBE forms must be attached to the submission?",
+          "bid": "Bid1",
+          "first_relevant_rank": 3,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 48
+        },
+        {
+          "question": "Is the EPCNT cooperative rider part of this bid?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 19
+        },
+        {
+          "question": "When is a hot swap device required?",
+          "bid": "Bid1",
+          "first_relevant_rank": 2,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 9
+        },
+        {
+          "question": "Are bid bond or insurance requirements stated?",
+          "bid": "Bid1",
+          "first_relevant_rank": 1,
+          "top1_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "top1_page": 17
+        },
+        {
+          "question": "What is the proposal due date for the Dell laptop bid?",
+          "bid": "Bid2",
+          "first_relevant_rank": 2,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Which affidavits are required for the Dell laptop bid?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Which master contract may bidders use?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "What is the delivery deadline after award?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Where should invoices be emailed?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Is a Letter of Authorization from Dell needed?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "What is the SKU for the Latitude 5550 base configuration?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "Dell_Laptop_Specs.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "What is the model number of the Thunderbolt dock?",
+          "bid": "Bid2",
+          "first_relevant_rank": 1,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 3
+        },
+        {
+          "question": "What is the procurement officer's phone number?",
+          "bid": "Bid2",
+          "first_relevant_rank": 3,
+          "top1_file": "PORFP_-_Dell_Laptop_Final.pdf",
+          "top1_page": 2
+        },
+        {
+          "question": "Can the vendor charge a restocking fee?",
+          "bid": "Bid2",
+          "first_relevant_rank": 3,
+          "top1_file": "Dell_Laptop_Specs.pdf",
+          "top1_page": 3
+        },
+        {
+          "question": "Mercury affidavit requirement",
+          "bid": null,
+          "first_relevant_rank": 1,
+          "top1_file": "Mercury_Affidavit.pdf",
+          "top1_page": 1
+        },
+        {
+          "question": "Form 1295 certificate of interested parties",
+          "bid": null,
+          "first_relevant_rank": 1,
+          "top1_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "top1_page": 4
+        }
+      ]
+    }
+  }
+}

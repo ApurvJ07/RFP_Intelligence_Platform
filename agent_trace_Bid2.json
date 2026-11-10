@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2026-11-10 17:32:33",
+    "agent": "IngestionAgent",
+    "latency_sec": 3.28,
+    "input_summary": "data/Bid2",
+    "output_summary": "Indexed 26 chunks"
+  },
+  {
+    "timestamp": "2026-11-10 17:32:49",
+    "agent": "RetrievalAgent",
+    "latency_sec": 15.67,
+    "input_summary": "{'bid_id': 'Bid2', 'queries_count': 20}",
+    "output_summary": "Retrieved 17 unique chunks"
+  },
+  {
+    "timestamp": "2026-11-10 17:44:25",
+    "agent": "ExtractionAgent_Unified_RFP_Extractor",
+    "latency_sec": 711.7,
+    "input_summary": "['Bid Number', 'Title', 'Due Date', 'Bid Submission Type', 'Pre Bid Meeting', 'Delivery Date', 'Installation', 'Term of Bid', 'Bid Bond Requirement', 'Payment Terms', 'Any Additional Documentation Required', 'MFG for Registration', 'Contract or Cooperative to use', 'contact_info', 'company_name', 'M",
+    "output_summary": "[{'field_name': 'Bid Number', 'value': 'BPM044557 / #E20P4600040', 'sources': [{'file': 'PORFP_-_Dell_Laptop_Final.pdf', 'page': 1}, {'file': 'Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html', 'page': 1}], 'confidence': 1.0, 'notes': 'Solictation number is BPM044557 and PORFP number is #E20P4600040.'}, {'field_name': 'Title', 'value': 'Dell Laptops w/Extended Warranty"
+  },
+  {
+    "timestamp": "2026-11-10 17:44:28",
+    "agent": "AddendumReconciliationAgent",
+    "latency_sec": 0.0,
+    "input_summary": "Bid2",
+    "output_summary": "No addendum files found."
+  },
+  {
+    "timestamp": "2026-11-10 17:44:28",
+    "agent": "ValidatorAgent",
+    "latency_sec": 0.0,
+    "input_summary": "Rule-based citation & grounding verification",
+    "output_summary": "[{'field_name': 'Bid Number', 'passed': True, 'adjusted_confidence': 1.0, 'reason': 'Verified non-null value backed by valid file and page citations.'}, {'field_name': 'Title', 'passed': True, 'adjusted_confidence': 1.0, 'reason': 'Verified non-null value backed by valid file and page citations.'}, {'field_name': 'Due Date', 'passed': True, 'adjusted_confidence': 1.0, 'reason': 'Verified non-null "
+  }
+]

@@ -1,0 +1,12 @@
+beautifulsoup4
+pdfplumber
+chromadb
+rank-bm25
+sentence-transformers
+google-genai
+pydantic
+python-dotenv
+fastapi
+uvicorn
+streamlit
+pytest
